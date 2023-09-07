@@ -1,5 +1,4 @@
 from backtesting import Backtest, Strategy
-import yfinance as yf
 import talib as ta
 import pandas as pd
 import datetime as dt
